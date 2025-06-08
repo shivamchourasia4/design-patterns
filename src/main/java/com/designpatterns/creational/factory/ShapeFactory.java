@@ -1,3 +1,5 @@
+package com.designpatterns.creational.factory;
+
 class ShapeFactory {
 
   public Shape getShape(String shapeName) {

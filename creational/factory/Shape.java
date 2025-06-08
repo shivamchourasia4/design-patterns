@@ -1,4 +1,0 @@
-interface Shape {
-
-  void draw();
-}

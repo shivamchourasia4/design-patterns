@@ -1,3 +1,5 @@
+package com.designpatterns.creational.factory;
+
 class Square implements Shape {
 
   @Override
