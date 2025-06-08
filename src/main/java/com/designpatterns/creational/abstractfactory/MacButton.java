@@ -1,6 +1,6 @@
 package com.designpatterns.creational.abstractfactory;
 
-class MacButton implements Button{
+class MacButton implements Button {
 
   @Override
   public void paint() {
